@@ -1,0 +1,11 @@
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\StudentServices.Data.dll.config
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\StudentServices.Data.dll
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\StudentServices.Data.pdb
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\EntityFramework.dll
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\EntityFramework.xml
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\obj\Debug\StudentServices.Data.csproj.CoreCompileInputs.cache
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\obj\Debug\StudentServices.Data.csproj.CopyComplete
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\obj\Debug\StudentServices.Data.dll
+C:\Users\jinpa\source\repos\StudentInformation\StudentServices.Data\obj\Debug\StudentServices.Data.pdb

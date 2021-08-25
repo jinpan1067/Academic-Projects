@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Gui Front End";
+}
+
+
+<div class="row">
+    
+    <div class="col-md-4">
+        <h2>Inputs</h2>
+        <input type="text" name="Id" id="Id" class="form-control" placeholder="Id"/>
+        <input type="text" name="FirstName" id="FirstName" class="form-control" placeholder="First Name"/>
+        <input type="text" name="LastName" id="LastName" class="form-control" placeholder="Last Name"/>
+        <input type="text" name="NumberofCourses" id="NumberofCourses" class="form-control" placeholder="Number Of Courses"/>
+        <input type="text" name="GraduationDate" id="GraduationDate" class="form-control" placeholder="Graduation Date"/>
+
+    </div>
+    
+    
+    <div class="col-md-3">
+        <h2>Actions</h2>
+
+        <button type="button" id="GetAll" class="btn btn-default">Get All Students</button>
+        <br />
+        <br />
+        <button type="button" id="GetById" class="btn btn-default">Get Student by Id</button>
+        <br />
+        <br />
+        <button type="button" id="GetByLastName" class="btn btn-default">Get Student by Last Name</button>
+        <br />
+        <br />
+        <button type="button" id="GetByFirstNameAndCourses" class="btn btn-default">Get Student by First Name and Number of Courses</button>
+        <br />
+        <br />
+        <button type="button" id="RemoveById" class="btn btn-default">Remove Student by Id</button>
+        <br />
+        <br />
+        <button type="button" id="AddStudent" class="btn btn-default">Add a student</button>
+        <br />
+        <br />
+        <button type="button" id="UpdateStudent" class="btn btn-default">Update Student Information</button>
+
+
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h1>Results</h1>
+        <p id="result"></p>
+    </div>
+</div>
